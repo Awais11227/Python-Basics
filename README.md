@@ -1,9 +1,8 @@
-**Python Basics 📚
-**
+**Python Basics** 📚
 
 
 
-**📖 Topics Covered**
+📖 **Topics Covered**
 ✅ Introduction to Python
 
 ✅ Data Types and Variables
@@ -36,6 +35,7 @@ Tuples, Dict, Set.ipynb	Concepts of tuples, dictionaries, and sets
 Python basics Theory.pdf	Detailed theory notes on Python basics
 README.md	Overview and guide for this repository
 **🚀 How to Use**
+
 Download or clone the repository:
 
 git clone https://github.com/your-username/python-basics.git
@@ -52,22 +52,23 @@ Read the theory file (Python basics Theory.pdf) for a quick conceptual overview.
 
 Practice by modifying the code examples to deepen your understanding.
 
-**🎯 Who Should Use This?**
+🎯**Who Should Use This?**
+
 Beginners starting their Python journey 🚀
 
 Students preparing for coding interviews 🧠
 
 Developers needing a quick Python revision 🔥
 
-**🤝 Contributing
-**Contributions are welcome! Feel free to fork this repository, make changes, and create a pull request.
+🤝**Contributing**
+Contributions are welcome! Feel free to fork this repository, make changes, and create a pull request.
 Together, let's make learning Python even easier! 🌟
 
-**📜 License
-**This project is licensed under the MIT License.
+📜 **License**
+This project is licensed under the MIT License.
 
-**Happy Coding! 🐍✨
-**
+**Happy Coding!** 🐍✨
+
 
 
 
